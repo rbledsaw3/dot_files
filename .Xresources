@@ -1,0 +1,5 @@
+! xcalc settings
+# include ".config/xresources.d/xcalc/xcalc.conf"
+
+! urxvt colours 
+# include ".config/xresources.d/xcolours/antix.conf"
